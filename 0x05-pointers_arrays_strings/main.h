@@ -1,4 +1,4 @@
-#ifndef FILE_MAIN
+fndef FILE_MAIN
 #define FILE_MAIN
 
 int _putchar(char c);
